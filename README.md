@@ -1,12 +1,13 @@
-# Overview
+# Lab 3 - DOM & Events
 
+## Concepts:
 This assignment will give you practice creating HTML forms and using Javascript to process their contents to generate interesting or useful outputs. You will learn to:
 
 * Create simple HTML forms with input elements and a button,
 * Write Javascript functions that are used as event handlers,
 * Incorporate conditional execution of code , and display results to the user, by dynamically changing the HTML page.
 
-# Mad Libs
+## Exercise:
 
 Many of us played with [Mad Libs](https://en.wikipedia.org/wiki/Mad_Libs) as kids. The idea is to ask someone — a friend, a victim — for some words, such as (1) a name, (2) a vehicle, (3) a restaurant, etc. Then, when you insert the words into a story, it yields a crazy result, because the choices were made without any idea of what the story would be. Here are screenshots of a Mad Libs page, both before and after a user has filled out the form and clicked the button:
 
