@@ -10,7 +10,9 @@ This assignment will give you practice creating HTML forms and using Javascript 
 
 Many of us played with [Mad Libs](https://en.wikipedia.org/wiki/Mad_Libs) as kids. The idea is to ask someone — a friend, a victim — for some words, such as (1) a name, (2) a vehicle, (3) a restaurant, etc. Then, when you insert the words into a story, it yields a crazy result, because the choices were made without any idea of what the story would be. Here are screenshots of a Mad Libs page, both before and after a user has filled out the form and clicked the button:
 
+![alt text](http://mysite.pratt.edu/~etrainer/Lab3/madlibs-1.png "Before")
 
+![alt text](http://mysite.pratt.edu/~etrainer/Lab3/madlibs-2.png "After")
 
 Your task will be to create a similar webpage to interactively play the Mad Libs game.
 
@@ -19,7 +21,7 @@ Your task will be to create a similar webpage to interactively play the Mad Libs
 Create the file `madlibs.html` and give your new web page a header. Then:
 * Create a `<form>` containing four `<input>` elements for the user to enter four missing words: for example, a noun for a name, a noun for an object, an adjective, and an adverb. You should only have one input for each of these words.
 * It'll be useful to show a default value in all input elements to simplify your testing of the page.
-* The form should also have a `<button>` element with an ID so that you can attach the event handler to it. It should also have the attribute `type="button"`.
+* The form should also have a `<button>` element with an ID so that you can attach the event handler to it.
 * There should also be a `<div>` element with an ID where the story will appear.
 
 
